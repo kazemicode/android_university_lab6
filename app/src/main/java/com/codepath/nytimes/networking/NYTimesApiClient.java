@@ -27,7 +27,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class NYTimesApiClient {
 
     // TODO: Replace the below API key with your own generated key
-    private static final String API_KEY = "<YOUR-API-KEY-GOES-HERE>";
+    private static final String API_KEY = "3DfFcE09gMXxVkFSusqN3AJ6HVv7W0RI";
     private static final String API_FILTER = "headline, web_url, snippet, pub_date, word_count, print_page, print_section, section_name";
     private static final String BEGIN_DATE = "20100101";
     private static final String SORT_BY = "relevance";
